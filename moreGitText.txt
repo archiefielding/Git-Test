@@ -1,1 +1,1 @@
-Just some more Git text 
+"Successfully linked local repository with Git Hub" 
